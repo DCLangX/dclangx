@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- ⚡ 菜的一批的前端
+- 🎨 以前是学画画的
+- ✨ 平时看动画/看剧/打游戏
+- 🤡 有空一起吹牛皮
+
 [![DCLangX's GitHub stats](https://github-readme-stats.vercel.app/api?username=dclangx&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
